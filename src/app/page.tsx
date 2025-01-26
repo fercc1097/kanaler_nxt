@@ -1,5 +1,4 @@
 import Link from "next/link";
-import IconifyIcon from "@/app/_components/wrapers/iconifyIcon";
 
 import Image from "next/image";
 
